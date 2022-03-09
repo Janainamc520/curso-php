@@ -54,7 +54,9 @@
                 </div>
                 <div class="modulo laranja">
                     <h3>4. Básico Array</h3>
-                    <ul><li><a href="exercicio.php?dir=array&file=basico">Array </a></li>
+                    <ul>
+                        <li><a href="exercicio.php?dir=array&file=basico">Array </a></li>
+                        <li><a href="exercicio.php?dir=array&file=mapa">Mapa </a></li>
                     </ul>
                 </div>
             </nav>
