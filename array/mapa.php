@@ -8,6 +8,11 @@ $dados = array(
 
 print_r($dados);
 
+//var_dump($dados[0]);
+echo '<br>'. $dados["idade"];
+echo '<br>'. $dados["cor"];
+echo '<br>'. $dados["peso"];
+
 ?>
 
 
