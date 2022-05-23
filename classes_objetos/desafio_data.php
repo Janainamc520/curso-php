@@ -7,8 +7,15 @@ class Data{
     public $ano = 1970;
 
     public function apresentar(){
-        echo "{$this->dia}/{$this->mes}Não,pergu/{$this->ano}<br>";
+        echo "{$this->dia}/{$this->mes}
+        /{$this->ano}<br>";
     }
 }
 $dat = new Data();
 $dat->apresentar();
+
+$dat1 = new Data();
+$dat1->dia = 02;
+$dat1->mes = 11;
+$dat1->ano = 1981;
+$dat1->apresentar();
