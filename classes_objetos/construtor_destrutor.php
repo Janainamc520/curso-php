@@ -23,3 +23,8 @@ class Pessoa{
 }
 $pessoa = new Pessoa('Rebeca',40);
 $pessoa->apresentar();
+unset($pessoa);
+
+$pessoaB = new Pessoa('Rebeca',40);
+$pessoaB->apresentar();
+unset($pessoa);   
