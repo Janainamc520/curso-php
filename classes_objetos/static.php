@@ -27,4 +27,4 @@ $objetoA->mostrarA();
 $objetoA->mostrarStaticA();//Não é a forma ideal
 
 echo '<br>';
-echo A::$static,'<br>';//acessa diretamente pela
+echo A::$static,'<br>';//acessa diretamente pela classe
