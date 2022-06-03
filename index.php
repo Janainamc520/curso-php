@@ -111,6 +111,7 @@
                     <li><a href="exercicio.php?dir=classes_objetos&file=static">Membros Estáticos</a></li>
                     <li><a href="exercicio.php?dir=classes_objetos&file=interface">Interface</a></li>
                     <li><a href="exercicio.php?dir=classes_objetos&file=abstract">Classe Abstrata</a></li>
+                    <li><a href="exercicio.php?dir=classes_objetos&file=desafio_erros">Desafio Erros</a></li>
                       
                     </ul>
                 </div>
